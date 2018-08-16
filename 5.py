@@ -1,13 +1,13 @@
 print(
         "\n###################################################"
         "\n          Prank CALL"
-        "\n     Mod By     : R0h1M-Zver"
+        "\n     Mod By     : r0H1m-Z3Ver"
         "\n     Contact Me : jeluni11@gmail.com"
         "\n     fb         : Him Zver"
         "\n     Youtube    : Rohim Zver"
         "\n     Instagram  : ............LUPA PW SAD"
-        "\n     Thanks To  : p4kl0nc4t"
-        "\n###################################################"
+        "\n                SELAMAT MENIKMATI KNTD
+        "\n&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&"
 )
 import thread
 import requests
